@@ -14,7 +14,10 @@
 
 </div>
 
-![头像](image/头像.jpg)
+<div  align=center>
+ <!-- ![头像](image/头像.jpg) -->
+  <img src="/image/头像.jpg" alt="头像" style="width: 200px;">
+</div>
 
 ![Visitor Count](https://profile-counter.glitch.me/CWH6/count.svg)
 
