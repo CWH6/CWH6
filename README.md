@@ -13,14 +13,14 @@
 ![](https://img.shields.io/badge/爱好-二次元-red)
 
 </div>
-
-<div  align=center>
+<hr/>
+<div  align=center style="margin-top:300px">
  <!-- ![头像](image/头像.jpg) -->
     <img src="/image/头像.jpg" alt="头像" style="width: 150px;">
-  <img src="/image/phl.png" alt="头像" style="width: 150px;">
+    <img src="/image/phl.png" alt="头像" style="width: 150px;">
     <img src="/image/qg.jpg" alt="头像" style="width: 150px;">
-   <img src="/image/sjg.png" alt="头像" style="width: 150px;">
-   <img src="/image/dzf.png" alt="头像" style="width: 150px;">
+    <img src="/image/sjg.png" alt="头像" style="width: 150px;">
+    <img src="/image/dzf.png" alt="头像" style="width: 150px;">
 </div>
 
 ![Visitor Count](https://profile-counter.glitch.me/CWH6/count.svg)
