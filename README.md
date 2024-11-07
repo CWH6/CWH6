@@ -1,11 +1,6 @@
-<div id="title" align=center>
 
-<!-- ![Modern C++ template][github-sub-title:img] -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CWH6&show_icons=true&theme=dark)](....)
 
-</div>
 
-<hr/>
 
 <div align=center>
 
@@ -29,6 +24,11 @@
 
 </div>
 
+<div id="title" align=center>
 
+<!-- ![Modern C++ template][github-sub-title:img] -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CWH6&show_icons=true&theme=dark)](....)
+
+</div>
 
 <!-- [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=mq白. -->
