@@ -6,7 +6,7 @@
 🎊 I'm passionate about programming and enjoy developing websites and web applications 🏈🎯 <br/>
 🌱 Currently, I'm learning big data <br/>
 🎭 I'm always looking for new challenges and opportunities to learn and grow. <br/>
-📫 If you're interested in potential collaborations, tech insights, or just want to say hi, feel free to reach out to me through the following: <br/>
+📫 If you're interested in potential collaborations, tech insights, or just want to say hi, feel free to reach out to me through the following: wyattwhitley7@outlook.com <br/>
 </div>
 
 
