@@ -9,14 +9,14 @@
 
 <div align=center>
 
-### Languages
+## ℹ️ Languages
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,python,ts,c,cpp,html,css)](https://skillicons.dev)
 
 
-### Technologies & Tools
+## 🔨 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,redis,postgresql,spring,rabbitmq,docker,kubernetes,nginx,vue,git,npm,maven,grafana,kafka,azure,gradle,jquery,linux,md,notion,postman,prometheus,vim,idea,vscode,webstorm,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,redis,postgresql,spring,rabbitmq,docker,kubernetes,nginx,vue,nodejs,git,npm,maven,grafana,kafka,azure,gradle,jquery,linux,md,notion,postman,prometheus,vim,idea,vscode,webstorm,pycharm)](https://skillicons.dev)
  
 </div>
 
