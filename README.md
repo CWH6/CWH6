@@ -1,4 +1,13 @@
-
+<div align=center>
+ 
+## Nice to meet you👋 I'm Wyatt Whitley!!
+⚡ About Me 👦
+👋 Hi, I'm a backend developer with 2.5 years of experience, from China 🧑‍💻🎉 <br/>
+🎊 I'm passionate about programming and enjoy developing websites and web applications 🏈🎯 <br/>
+🌱 Currently, I'm learning big data <br/>
+🎭 I'm always looking for new challenges and opportunities to learn and grow. <br/>
+📫 If you're interested in potential collaborations, tech insights, or just want to say hi, feel free to reach out to me through the following: <br/>
+</div>
 
 
 
